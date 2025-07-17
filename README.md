@@ -10,10 +10,10 @@ Interagire con gli altri utenti
 Visualizzare gli utenti e scegliere chi seguire
 
 ## ⚙️ Risorse Utilizzate
-Linguaggi utilizzati: Java 23, SQL
-Database e server: MySQL
-Interfaccia grafica: Java Swing
-Librerie aggiuntive: JUnit e MySQL-connector
+- **Linguaggi utilizzati: Java 23, SQL**
+- **Database e server: MySQL**
+- **Interfaccia grafica: Java Swing**
+- **Librerie aggiuntive: JUnit e MySQL-connector**
 
 ## 🙋‍♂️ Autore
 Corrado Bruschi  
